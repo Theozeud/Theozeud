@@ -7,7 +7,7 @@
 
 - Programming Languages:
     <p align="left">
-        <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="assets/icon/julia.svg" alt="Julia" width="40" height="40"/> </a>
+        <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="Assets/julia.svg" alt="Julia" width="40" height="40"/> </a>
 
 <!--
 **Theozeud/Theozeud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
