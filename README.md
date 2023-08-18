@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+---
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Theozeud&show_icons=true&theme=white&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="Theozeud" />
+
+<h3 align="left">Languages and Tools:</h3>
+
+- Programming Languages:
+    <p align="left">
+        <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="assets/icon/julia.svg" alt="Julia" width="40" height="40"/> </a>
+
 <!--
 **Theozeud/Theozeud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
