@@ -3,7 +3,7 @@
 
 <h3 align="center"> Passionate by research, learning Mathematics 📈, Physics ⚛️and Computer Science 💻 </h3>
 
-<h3 align="center"> I'm a Master student 👨‍🎓, currently enrolled both at CentraleSupélec with a conccurent degree at Paris-Saclay Univeristy in the Analysis-Modelisation-Simulation master's program.
+<h4 align="center"> I'm a Master student 👨‍🎓, currently enrolled both at CentraleSupélec with a conccurent degree at Paris-Saclay Univeristy in the Analysis-Modelisation-Simulation master's program. </h4>
 
 
 
@@ -15,11 +15,26 @@
 
 - Programming Languages:
     <p align="left">
-        <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="Assets/Julia.png" alt="Julia" width="59" height="38"/> </a>
+        <a href="https://julialang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/julia/julia-original-wordmark.svg" alt="Julia" width="40" height="40"/> </a>
         <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="Assets/C++.svg" alt="C++" width="40" height="40"/> </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="Assets/python.svg" alt="Python" width="40" height="40"/> </a>
-        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="Assets/Matlab.png" alt="Python" width="43" height="38"/> </a>
-        
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> </a>
+        <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="Python" width="43" height="38"/> </a>
+
+    </p>
+
+- Scientific Tools
+    <p align="left">
+        <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> </a>
+
+    </p>
+
+
+- Techs:
+    <p align="left">
+        <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+        <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+
+    </p>
 
 <!--
 **Theozeud/Theozeud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
