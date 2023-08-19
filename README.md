@@ -1,7 +1,12 @@
 
 <h1 align="center">Hi there 👋, I'm Théo Duez</h1>
 
-<h3 align="center"> Passionate by research, learning applied and fundamental Mathematics, Physics and Computer Science </h3>
+<h3 align="center"> Passionate by research, learning Mathematics 📈, Physics ⚛️and Computer Science 💻 </h3>
+
+<h3 align="center"> I'm a Master student 👨‍🎓, currently enrolled both at CentraleSupélec with a conccurent degree at Paris-Saclay Univeristy in the Analysis-Modelisation-Simulation master's program.
+
+
+
 
 ---
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Theozeud&show_icons=true&theme=white&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="Theozeud" />
