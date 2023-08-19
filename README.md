@@ -25,6 +25,7 @@
 - Scientific Tools
     <p align="left">
         <a href="https://www.latex-project.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" alt="LaTeX" width="40" height="40"/> </a>
+        <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="Assets/paraview.png" alt="C++" width="40" height="40"/> </a>
 
     </p>
 
