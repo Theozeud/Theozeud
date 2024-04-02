@@ -5,11 +5,9 @@
 
 <h4 align="center"> I'm a Master student 👨‍🎓, currently enrolled both at CentraleSupélec with a conccurent degree at Paris-Saclay Univeristy in the Analysis-Modelisation-Simulation master's program. </h4>
 
-
-
-
 ---
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Theozeud&show_icons=true&theme=white&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="Theozeud" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Theozeud&show_icons=true&theme=radical" alt="GitHub Stats" width="335" style="margin-right: 20px; margin-bottom:20px;"/>
+username=Theozeud&show_icons=true&theme=white&locale=en&hide_border=true&include_all_commits=true&count_private=true" alt="Theozeud" />
 
 <h3 align="left">Languages and Tools:</h3>
 
