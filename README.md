@@ -21,4 +21,6 @@
 
 - **CEA Saclay — Nov 2022 → Mar 2023** : Lattice Boltzmann simulations for two-phase flows with d evelopment within the *LBM_saclay* C++ code.
 
-- **Max Planck Institute — Apr 2023 → Aug 2023** : Physics-informed neural networks (PINNs), in particular Symplectic, Hamiltonian and Lagrangian neural networks (SympNet, HNN, LNN). In contributed mostly to the Julia package *GeometricMachineLearning.jl*.
+- **Max Planck Institute — Apr 2023 → Aug 2023** : Physics-informed neural networks (PINNs), in particular Symplectic, Hamiltonian and Lagrangian neural networks (SympNet, HNN, LNN). In contributed mostly to the Julia package [*GeometricMachineLearning.jl*](https://github.com/JuliaGNI/GeometricMachineLearning.jl).
+
+- **CNRS, Cermics — May 2024 → Today** : Simulation of the groundstate of atoms and ions in the extended-Kohn Sham formalism. See [*AtomicKohnSham.jl*](https://github.com/Theozeud/AtomicKohnSham).
